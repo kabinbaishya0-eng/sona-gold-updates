@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "minVersionCode": 5,
   "apkUrl": "https://github.com/kabinbaishya0-eng/sona-gold-updates/releases/latest/download/SonaGoldRate.apk",
   "message": "A new version of Sona Gold Rate is available.",
-  "notes": "App version shown at the bottom, and updates now download inside the app.",
-  "notes_hi": "ऐप का वर्ज़न नीचे दिखता है, और अपडेट अब ऐप के अंदर ही डाउनलोड होंगे।",
-  "notes_as": "এপৰ সংস্কৰণ তলত দেখা যায়, আৰু আপডেট এতিয়া এপৰ ভিতৰতে ডাউনলোড হয়।"
+  "notes": "Smoother feedback with a clear try-again screen, and a new language change animation.",
+  "notes_hi": "फीडबैक में साफ़ 'फिर कोशिश करें' स्क्रीन, और भाषा बदलने पर नया एनिमेशन।",
+  "notes_as": "ফিডবেকত স্পষ্ট 'আকৌ চেষ্টা কৰক' স্ক্ৰীন, আৰু ভাষা সলনি কৰিলে নতুন এনিমেচন।"
 }
